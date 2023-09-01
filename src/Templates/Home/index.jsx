@@ -8,7 +8,7 @@ import { TextInput } from '../../Components/TextInput';
       posts:[],
       allPosts:[],
       page:0,
-      postsPerPage:2,
+      postsPerPage:10,
       searchValue:""
     };
 
